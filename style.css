@@ -76,7 +76,5 @@ section{
 footer p{
     text-align: center;
     font-size: 15px;
-    height: 15%;
-    background-color: gray;
-    color: black;
+    ;
 }
